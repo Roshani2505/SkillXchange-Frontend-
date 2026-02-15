@@ -1,0 +1,8 @@
+{
+  "name": "SkillXchange - Student Skill Exchange Platform",
+  "description": "A comprehensive peer-to-peer skill exchange and career development platform for students, featuring AI-powered roadmaps, resume feedback, and personalized mentorship.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
